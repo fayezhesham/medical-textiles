@@ -1,5 +1,5 @@
 # Medical textiles waste saving dashboard
-
+[Visit the app](https://circularmedicaltextiles.pythonanywhere.com/)
 
 ## How to run this app locally
 
